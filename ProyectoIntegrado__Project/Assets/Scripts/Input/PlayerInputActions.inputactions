@@ -16,12 +16,12 @@
                 },
                 {
                     "name": "Look",
-                    "type": "Button",
+                    "type": "Value",
                     "id": "637b417a-20d4-47ce-85b5-9a2402f1e56b",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Jump",
@@ -34,6 +34,17 @@
                 }
             ],
             "bindings": [
+                {
+                    "name": "",
+                    "id": "40e31eb8-ace2-4475-ab72-37e1866d86d3",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
                 {
                     "name": "WASD",
                     "id": "d81b5526-c3cb-4f34-b953-874a9a9c2caf",
@@ -147,7 +158,7 @@
                 {
                     "name": "",
                     "id": "40728228-44bb-486e-a3f4-a941e2be604e",
-                    "path": "",
+                    "path": "<Mouse>/delta",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -158,7 +169,7 @@
                 {
                     "name": "",
                     "id": "460db733-756e-4fe1-95b1-58036a85931f",
-                    "path": "",
+                    "path": "<Gamepad>/rightStick",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -169,7 +180,18 @@
                 {
                     "name": "",
                     "id": "829f1166-c31f-4283-bf95-69413730cf88",
-                    "path": "",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b43638cd-4f2f-47a1-a06c-ee01fe6ab86a",
+                    "path": "<Gamepad>/buttonSouth",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
