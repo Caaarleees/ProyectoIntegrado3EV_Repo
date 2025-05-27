@@ -1515,32 +1515,32 @@ PrefabInstance:
     - target: {fileID: -7398820463247032104, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70689774
+      value: 0.7070952
       objectReference: {fileID: 0}
     - target: {fileID: -7398820463247032104, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7068979
+      value: 0.7070933
       objectReference: {fileID: 0}
     - target: {fileID: -7398820463247032104, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.017189424
+      value: -0.0042052595
       objectReference: {fileID: 0}
     - target: {fileID: -7398820463247032104, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.017189588
+      value: 0.0042054933
       objectReference: {fileID: 0}
     - target: {fileID: -7398820463247032104, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 90
+      value: 89.972
       objectReference: {fileID: 0}
     - target: {fileID: -7398820463247032104, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 2.786
+      value: 0.682
       objectReference: {fileID: 0}
     - target: {fileID: -4082504146099360682, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
@@ -1591,6 +1591,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 408729792}
+    - targetCorrespondingSourceObject: {fileID: 7640834976295231839, guid: 3145d6d91ad1544448f1f67f04afbb8c,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 408729797}
     - targetCorrespondingSourceObject: {fileID: -2963547942528659570, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       insertIndex: -1
@@ -1648,6 +1652,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetSceneName: EscenaCarles
+--- !u!65 &408729797
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 408729787}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.1296878, y: 0.099999994, z: 1.9999998}
+  m_Center: {x: -0.5648434, y: -0.049999982, z: -0.9999999}
 --- !u!1 &437368810
 GameObject:
   m_ObjectHideFlags: 0
