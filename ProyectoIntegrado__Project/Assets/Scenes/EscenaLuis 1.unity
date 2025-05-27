@@ -1590,11 +1590,21 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7640834976295231839, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       insertIndex: -1
+<<<<<<< HEAD:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis 1.unity
+=======
+<<<<<<< HEAD:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis.unity
+      addedObject: {fileID: 952368925}
+=======
+>>>>>>> 2e089771c82576b9266824a7f5e5cdafbc4642c3:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis.unity
       addedObject: {fileID: 408729792}
     - targetCorrespondingSourceObject: {fileID: 7640834976295231839, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 408729797}
+<<<<<<< HEAD:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis 1.unity
+=======
+>>>>>>> c26382acfd9bc9ea4b9625b8a05855e4f306676a:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis 1.unity
+>>>>>>> 2e089771c82576b9266824a7f5e5cdafbc4642c3:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis.unity
     - targetCorrespondingSourceObject: {fileID: -2963547942528659570, guid: 3145d6d91ad1544448f1f67f04afbb8c,
         type: 3}
       insertIndex: -1
@@ -1639,6 +1649,11 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2, y: 0.0109632155, z: 4}
   m_Center: {x: -1, y: 0.0054816077, z: -2}
+<<<<<<< HEAD:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis 1.unity
+=======
+<<<<<<< HEAD:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis.unity
+=======
+>>>>>>> 2e089771c82576b9266824a7f5e5cdafbc4642c3:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis.unity
 --- !u!114 &408729792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1673,6 +1688,10 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.1296878, y: 0.099999994, z: 1.9999998}
   m_Center: {x: -0.5648434, y: -0.049999982, z: -0.9999999}
+<<<<<<< HEAD:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis 1.unity
+=======
+>>>>>>> c26382acfd9bc9ea4b9625b8a05855e4f306676a:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis 1.unity
+>>>>>>> 2e089771c82576b9266824a7f5e5cdafbc4642c3:ProyectoIntegrado__Project/Assets/Scenes/EscenaLuis.unity
 --- !u!1 &437368810
 GameObject:
   m_ObjectHideFlags: 0
