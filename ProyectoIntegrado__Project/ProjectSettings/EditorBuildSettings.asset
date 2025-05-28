@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/EscenaCarles.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/EscenaLuis1.unity
+    guid: 6450db4a1a114ed47bcf836b6884c992
   - enabled: 1
-    path: Assets/Scenes/EscenaLuis.unity
-    guid: a351943f824484d4ba6a54282368aa36
+    path: Assets/Scenes/EscenaCarles.unity
+    guid: 1bf3e2f325e9f794bbc98ad03c2f3a2f
   m_configObjects: {}
