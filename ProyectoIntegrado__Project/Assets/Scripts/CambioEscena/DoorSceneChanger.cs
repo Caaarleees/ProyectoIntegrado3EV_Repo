@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class DoorSceneChanger : MonoBehaviour
 {
    
-    public string targetSceneName = "EscenaLuis"; // Cambiar a la escena deseada
+    public string targetSceneName = "EscenaLuis1"; // Cambiar a la escena deseada
 
     private void OnTriggerEnter(Collider other)
     {
